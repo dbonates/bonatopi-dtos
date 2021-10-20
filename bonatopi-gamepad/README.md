@@ -3,7 +3,7 @@
 This overlay configures the gpio pin to work as gamepad firing equivalent keyboard keys.
 
 > Keyboard reference can be found on linux source:
-> [https://github.com/torvalds/linux/blob/master/include/uapi/linux/input-event-codes.h](linux-input-event-codes.h)
+> [linux-input-event-codes.h](https://github.com/torvalds/linux/blob/master/include/uapi/linux/input-event-codes.h)
 
 ## Usage
 
